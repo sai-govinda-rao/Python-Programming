@@ -5,6 +5,8 @@ b = 10.0
 c = "Hello"
 d = True
 e = 10+30j
+
+#This type() function will return which data type of this boject
 print(type(a))
 print(type(b))
 print(type(c))
