@@ -1,0 +1,5 @@
+print("Hello World!...")
+print("String concatinatio Exercise")
+print('String "concatination" is done with the "+" sign')
+print('print("hello" +"sai")')
+print("new line can be created with a back slash and n")
